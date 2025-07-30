@@ -1,9 +1,8 @@
 # Laundry OnLine
 
 ### Dibuat oleh :
-1. Nur Hasana Abunawas
-2. Ichsanul Alifwan
-3. Dandy Garda Dirgantara
+1. Haikal Aditama Turah
+2. Richard Firmansyah
 
 
 ### Manual dan Fitur 
@@ -40,6 +39,3 @@ Setelah selesai login, akan langsung diarahkan ke Dashboard Admin untuk mengatur
 1. Library jQuery digunakan untuk membuat form step order bekerja
 2. Framework Bootstrap digunakan untuk mempercantik tampilan website
 
-
-### API (opsional)
-1. [Google Maps](https://maps.googleapis.com/maps/api/js)

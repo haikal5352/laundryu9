@@ -79,7 +79,7 @@ $rows = $pdo->getHarga();
                     <div class="col-sm text-center">
                         <img src="images/img3.png" width="135px">
                         <h5>Daftar</h5>
-                        <p>Pelanggan mendaftarkan dirinya pada website, dan melakukan pemesanan</p>
+                        <p>Buka website ini, terus daftar sebagai pengguna. Habis itu, pilih layanan laundry yang kamu butuhkan.</p>
                     </div>
                     <div class="col-sm text-center">
                         <img src="images/img4.png" width="100px">
